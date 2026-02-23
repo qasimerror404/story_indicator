@@ -4,7 +4,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![platform](https://img.shields.io/badge/platform-flutter%20%7C%20dart%20vm-ff69b4.svg)](https://flutter.dev)
 
-![Demo](https://via.placeholder.com/400x200?text=Story+Indicator+Demo+GIF)
+![story_progress_indicator](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/banner.png)
+
+### Screenshots
+
+| Screenshot | Demo (animated) |
+|------------|-----------------|
+| ![Screenshot](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/image.png) | ![Demo](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/demo.gif) |
 
 A zero-dependency Flutter package that provides a **Stories-style segmented progress indicator**: multiple segments that fill over time or in response to swipes, ideal for story UIs, onboarding, or any step-by-step content.
 
@@ -31,7 +37,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  story_progress_indicator: ^1.0.0
+  story_progress_indicator: ^1.1.0
 ```
 
 Then run:
