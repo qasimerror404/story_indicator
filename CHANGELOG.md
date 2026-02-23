@@ -1,3 +1,7 @@
+## 1.1.2
+
+- README: use full GitHub raw URLs for images so they display on pub.dev
+
 ## 1.1.1
 
 - README: banner, screenshots, and demo GIF for GitHub and pub.dev
