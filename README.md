@@ -10,7 +10,7 @@
 
 | Screenshot | Demo |
 |------------|------|
-| ![Screenshot](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/image.png) | [▶ Demo video (.mov)](https://github.com/qasimerror404/story_progress_indicator/raw/main/assets/story_progress_indicator_gif.mov) |
+| ![Screenshot](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/image.png) | ![Demo](https://raw.githubusercontent.com/qasimerror404/story_progress_indicator/main/assets/story_progress_indicator_gif.gif) |
 
 A zero-dependency Flutter package that provides a **Stories-style segmented progress indicator**: multiple segments that fill over time or in response to swipes, ideal for story UIs, onboarding, or any step-by-step content.
 
