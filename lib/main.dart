@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:story_indicator/story_indicator.dart';
+import 'package:story_progress_indicator/story_indicator.dart';
 
 void main() => runApp(const StoryIndicatorExampleApp());
 

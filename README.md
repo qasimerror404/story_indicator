@@ -1,4 +1,4 @@
-# story_indicator_example
+# story_progress_indicator_example
 
 A new Flutter project.
 
