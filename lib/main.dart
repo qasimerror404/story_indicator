@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:story_indicator/story_indicator.dart';
 
-void main() => runApp(const _StoryIndicatorExampleApp());
+void main() => runApp(const StoryIndicatorExampleApp());
 
 class _Story {
   const _Story({
@@ -25,8 +25,9 @@ class _Story {
   final String avatarEmoji;
 }
 
-class _StoryIndicatorExampleApp extends StatelessWidget {
-  const _StoryIndicatorExampleApp();
+/// Application widget. Public for testing.
+class StoryIndicatorExampleApp extends StatelessWidget {
+  const StoryIndicatorExampleApp({super.key});
 
   @override
   Widget build(BuildContext context) {
