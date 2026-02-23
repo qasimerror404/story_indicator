@@ -1,3 +1,12 @@
+## 1.1.1
+
+- README: banner, screenshots, and demo GIF for GitHub and pub.dev
+- Assets: added `banner.png`, `image.png`, `story_progress_indicator_gif.gif`
+
+## 1.1.0
+
+- Version bump for pub.dev
+
 ## 1.0.0
 
 - Initial release

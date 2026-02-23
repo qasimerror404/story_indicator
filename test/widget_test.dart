@@ -1,7 +1,7 @@
 // Basic Flutter widget test for the story indicator example app.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:story_progress_indicator_example/main.dart';
+import 'package:story_progress_indicator/main.dart';
 
 void main() {
   testWidgets('Stories viewer loads and shows first story', (WidgetTester tester) async {
